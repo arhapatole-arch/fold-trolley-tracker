@@ -1,0 +1,18 @@
+# Environment variables — never commit these
+.env
+.env.local
+.env.production
+
+# Supabase local config
+.supabase/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Node (if frontend added later)
+node_modules/
