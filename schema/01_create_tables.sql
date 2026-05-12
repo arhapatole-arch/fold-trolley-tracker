@@ -1,6 +1,10 @@
 -- ============================================================
--- FOLD TROLLEY TRACKER — Database Schema
+-- FOLD TROLLEY TRACKER — Database Schema (v2)
 -- PostgreSQL 17 (Supabase)
+-- Updated: May 2026
+-- Changes: Added condition, source, dwell_minutes to trolley_events
+--          Added restock_events table
+--          Added GPS coordinates to all locations
 -- ============================================================
 
 -- LOCATIONS
